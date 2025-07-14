@@ -10,7 +10,7 @@
 
 
 <p align="justify">
-  I'm a computer science student focused on developing data-driven solutions using Python and machine learning. I build systems that can learn, adapt, and solve real-world problems. Currently, I'm working extensively with language models and AI assistants, exploring how these technologies can create meaningful impact. I'm particularly interested in projects that bridge the gap between complex technical capabilities and practical user needs.
+  I'm a computer science student focused on developing data-driven solutions using Python and machine learning. I build systems that can learn, adapt and solve real-world problems. Currently, I'm working extensively with large language models and AI assistants, exploring how these technologies can create meaningful impact. I'm particularly interested in projects that bridge the gap between complex technical capabilities and practical user needs.
 </p>
 
 ---
