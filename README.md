@@ -3,9 +3,9 @@
 </p>
 
 <h3 align="center">
-  <code>CS Undergrad</code> &nbsp;|&nbsp;
-  <code>AI Developer</code> &nbsp;|&nbsp;
-  <code>Data Scientist</code>
+  <code>Data Analyst</code> &nbsp;|&nbsp;
+  <code>Data Scientist</code> &nbsp;|&nbsp;
+  <code>AI Developer</code>
 </h3>
 
 
