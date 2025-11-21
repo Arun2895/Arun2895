@@ -18,10 +18,10 @@
 ### 🌱 Technologies I Work With
 
 - **Languages**: Python, SQL  
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn, OpenCV, NumPy, Pandas, Apache Spark
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn, OpenCV, NumPy, Pandas, PySpark
 - **LLMs & Frameworks**: HuggingFace Transformers, LangChain  
 - **Web Apps**: Streamlit, Flask, Gradio  
-- **Tools**: VS Code, Jupyter Notebook, Google Colab, Git, PowerBI
+- **Tools**: VS Code, Jupyter Notebook, DataBricks, Google Colab, Git, PowerBI
 
 ---
 
