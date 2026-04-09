@@ -20,7 +20,7 @@
 - **Languages**: Python, SQL  
 - **AI/ML**: RAG, MCP, TensorFlow, PyTorch, Scikit-learn, OpenCV, NumPy, Pandas
 - **LLMs & Frameworks**: HuggingFace Transformers, LangChain  
-- **Web Apps**: Streamlit, Flask, Gradio  
+- **Web Apps**: Streamlit, Gradio  
 - **Tools**: VS Code, Jupyter Notebook, DataBricks, Google Colab, Git, PowerBI
 
 ---
