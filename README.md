@@ -21,7 +21,7 @@
 - **AI/ML**: RAG, MCP, TensorFlow, PyTorch, Scikit-learn, OpenCV, NumPy, Pandas
 - **LLMs & Frameworks**: HuggingFace Transformers, LangChain  
 - **Web Apps**: Streamlit, Gradio  
-- **Tools**: VS Code, Jupyter Notebook, DataBricks, Google Colab, Git, PowerBI
+- **Tools**: VS Code, Postman, Jupyter Notebook, DataBricks, Google Colab, Git, PowerBI
 
 ---
 
