@@ -36,7 +36,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px"/>
   <strong>LinkedIn</strong><br>
-  <a href="https://www.linkedin.com/in/arun-j-2b8298297/">linkedin.com/in/arun-j</a>
+  <a href="https://www.linkedin.com/in/Arun2895/">linkedin.com/in/Arun2895</a>
 </p>
 
 <p>
